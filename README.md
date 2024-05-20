@@ -1,6 +1,6 @@
 # GPT-Accounting and Disclosures using LLM
 
-### GPT Table Semantic Parsing [[Paper](https://drive.google.com/file/d/1edpW9TkiNPAEhD5NvFgQOv2i73wFiEBz/view?usp=sharing)]
+### GPT Table Semantic Parsing [[Paper]()]
 
 ## Research on the Automation of Virtual Asset Accounting and Disclosure Using LLM
 ## LLM을 이용한 가상 자산 회계 공시 자동화에 대한 연구
