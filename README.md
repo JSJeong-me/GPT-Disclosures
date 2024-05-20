@@ -1,4 +1,4 @@
-# GPT-Accounting and Disclosures using LLM
+# GPT- Financial Accounting and Disclosures using LLM
 
 ### GPT Table Semantic Parsing [[Paper]()]
 
