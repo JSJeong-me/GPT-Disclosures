@@ -17,7 +17,7 @@
 LLM을 활용하면 가상 자산 회계 공시 프로세스 자동화와 전문성 확보 가능성을 제시
 
 ![CoT](https://github.com/JSJeong-me/GPT-Disclosures/assets/54794815/18a464ad-69b1-46ec-a89f-354ac7415286)
-### Fig. 1. Example of writing a disclosure document using LLM
+### Fig. 1 Example of Writing a Disclosure Document Using LLM
 
 
 `````
