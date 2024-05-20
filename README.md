@@ -19,4 +19,4 @@ LLM을 활용하면 가상 자산 회계 공시 프로세스 자동화와 전문
 ![CoT](https://github.com/JSJeong-me/GPT-Disclosures/assets/54794815/18a464ad-69b1-46ec-a89f-354ac7415286)
 ### Fig. 1. Example of writing a disclosure document using LLM
 
-### 신용카드학회 2024년 춘계학술대회 투고논문
+### Korean Creditcard Academic Society 2024
