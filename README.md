@@ -21,5 +21,5 @@ LLM을 활용하면 가상 자산 회계 공시 프로세스 자동화와 전문
 
 
 `````
-### Korean Creditcard Academic Society 2024
+Korean Creditcard Academic Society 2024
 `````
