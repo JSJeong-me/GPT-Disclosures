@@ -18,6 +18,6 @@ The integration of AI technologies in corporate accounting is anticipated to tra
 ### Fig. 1 Example of Writing a Disclosure Document Using LLM
 
 
-
+##
 ## Korean Creditcard Academic Society 2024
 
