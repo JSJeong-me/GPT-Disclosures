@@ -1,6 +1,4 @@
-# GPT- Financial Accounting and Disclosures using LLM
-
-### GPT Table Semantic Parsing [[Paper]()]
+# GPT- Financial Accounting and Disclosures using LLM [[Paper]()]
 
 ## Case Study on the Automation of Virtual Asset Accounting and Disclosure Using Large Language Models
 
