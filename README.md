@@ -4,6 +4,8 @@
 
 ## LLM을 이용한 가상 자산 회계 공시 자동화에 대한 사례연구
 
+````
+
 ### Abstract
 
 In late 2023, South Korea's Financial Services Commission and Financial Supervisory Service introduced a revision to K-IFRS, aimed at enhancing the transparency and accountability of virtual asset issuers and operators. This amendment mandates more detailed disclosures in financial statements concerning virtual assets, thus setting a standardized guideline for accounting practices within the virtual asset industry. The amendment is designed to bolster the reliability of the virtual asset market and enhance investor protection by incorporating examples of note disclosures specific to virtual assets.
@@ -12,6 +14,7 @@ The integration of AI technologies in corporate accounting is anticipated to tra
 
 ### Keywords: LLM, RAG, CoT, Prompt Engineering, Virtual-Assets
 
+````
 ![CoT](https://github.com/JSJeong-me/GPT-Disclosures/assets/54794815/18a464ad-69b1-46ec-a89f-354ac7415286)
 ### Fig. 1 Example of Writing a Disclosure Document Using LLM
 
