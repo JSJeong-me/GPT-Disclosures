@@ -2,8 +2,9 @@
 
 ### GPT Table Semantic Parsing [[Paper]()]
 
-## Research on the Automation of Virtual Asset Accounting and Disclosure Using LLM
-## LLM을 이용한 가상 자산 회계 공시 자동화에 대한 연구
+## Case Study on the Automation of Virtual Asset Accounting and Disclosure Using Large Language Models
+
+## LLM을 이용한 가상 자산 회계 공시 자동화에 대한 사례연구
 
 ### Abstract
 
