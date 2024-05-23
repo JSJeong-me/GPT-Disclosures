@@ -6,14 +6,11 @@
 
 ### Abstract
 
-최근 금융위원회 및 금융감독원에서는 가상 자산 발행자 및 운영자의 투명성과 책임성을 강화하는 중요한 조치를 취했습니다. 가상자산 공시를 강화한 K-IFRS 제1001호(재무제표 표시)가 개정 공표(12.13.)됨에 따라, 가상자산 주석공시 모범사례(Best Practice)를 마련하여 같은 날 공개되었습니다.
-블룸버그는 500억 개 매개변수 LLM인 '블룸버그 GPT'를 개발하여 재무 업무에서 기존 모델을 능가하는 성능을 보였다고 합니다. 또한 카카오뱅크는 금융 특화 LLM 'KF-DeBERTa'를 개발하여 금융 서비스에 활용 중이다.
+In late 2023, South Korea's Financial Services Commission and Financial Supervisory Service introduced a revision to K-IFRS, aimed at enhancing the transparency and accountability of virtual asset issuers and operators. This amendment mandates more detailed disclosures in financial statements concerning virtual assets, thus setting a standardized guideline for accounting practices within the virtual asset industry. The amendment is designed to bolster the reliability of the virtual asset market and enhance investor protection by incorporating examples of note disclosures specific to virtual assets.
+This study explores the integration of generative artificial intelligence, particularly large language models (LLMs), into virtual asset accounting. By utilizing the prompt capabilities of LLMs, this paper presents a method for automatically identifying and analyzing key transaction items in virtual asset trade details and formatting them according to the Financial Supervisory Service's disclosure guidelines. Advanced reasoning features, such as Chain-of-Thought (CoT), are incorporated to automate the interpretation and reporting processes of virtual asset transaction data.
+The integration of AI technologies in corporate accounting is anticipated to transform accounting practices by improving efficiency, accuracy, and strategic value. This case study proposes a technical approach applicable to the management and supervision of virtual asset transactions, emphasizing the role of AI in automating accounting tasks and enhancing strategic decision-making processes. The anticipated outcomes include resolving existing challenges faced by the accounting profession through automation and highlighting the strategic role of AI in this field.
 
-    회계 전문가 지식을 LLM에 전수하기 위한 프롬프트 엔지니어링 기법 적용
-    가상 자산 회계 공시 작성을 위한 LLM 프롬프트 템플릿 개발
-    전문가 피드백을 반영하여 LLM Audit
-
-LLM을 활용하면 가상 자산 회계 공시 프로세스 자동화와 전문성 확보 가능성을 제시
+Keywords: LLM, RAG, CoT, Prompt Engineering, Virtual-Assets
 
 ![CoT](https://github.com/JSJeong-me/GPT-Disclosures/assets/54794815/18a464ad-69b1-46ec-a89f-354ac7415286)
 ### Fig. 1 Example of Writing a Disclosure Document Using LLM
