@@ -12,7 +12,7 @@ This study explores the integration of generative artificial intelligence, parti
 The integration of AI technologies in corporate accounting is anticipated to transform accounting practices by improving efficiency, accuracy, and strategic value. This case study proposes a technical approach applicable to the management and supervision of virtual asset transactions, emphasizing the role of AI in automating accounting tasks and enhancing strategic decision-making processes. The anticipated outcomes include resolving existing challenges faced by the accounting profession through automation and highlighting the strategic role of AI in this field.
 ##
 ### Keywords: LLM, RAG, CoT, Prompt Engineering, Virtual-Assets
-
+##
 
 ![CoT](https://github.com/JSJeong-me/GPT-Disclosures/assets/54794815/18a464ad-69b1-46ec-a89f-354ac7415286)
 ### Fig. 1 Example of Writing a Disclosure Document Using LLM
