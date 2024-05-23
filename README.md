@@ -4,7 +4,6 @@
 
 ## LLM을 이용한 가상 자산 회계 공시 자동화에 대한 사례연구
 
-````
 
 ### Abstract
 
@@ -14,11 +13,11 @@ The integration of AI technologies in corporate accounting is anticipated to tra
 
 ### Keywords: LLM, RAG, CoT, Prompt Engineering, Virtual-Assets
 
-````
+
 ![CoT](https://github.com/JSJeong-me/GPT-Disclosures/assets/54794815/18a464ad-69b1-46ec-a89f-354ac7415286)
 ### Fig. 1 Example of Writing a Disclosure Document Using LLM
 
 
-`````
-Korean Creditcard Academic Society 2024
-`````
+
+### Korean Creditcard Academic Society 2024
+
