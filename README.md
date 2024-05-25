@@ -1,5 +1,4 @@
-# GPT- Financial Accounting and Disclosures using LLM [[Paper]()]
-
+# GPT- Financial Accounting and Disclosures using LLM [[Paper]()] [[LIVE DEMO](http://3.36.196.66:8501)]
 ## Case Study on the Automation of Virtual Asset Accounting and Disclosure Using Large Language Models
 
 ## LLM을 이용한 가상 자산 회계 공시 자동화에 대한 사례연구
