@@ -18,5 +18,3 @@ Effective use of LLM prompts is expected to facilitate the automation of account
 
 
 ##
-## Korean Creditcard Academic Society 2024
-
